@@ -1,38 +1,76 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+.myApp, .App, body{
+margin: 0;
+padding: 0;
+font-family: "Noto Sans KR", sans-serif;
+font-optical-sizing: auto;
+text-align: left;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.App{
+  margin: 0 auto;
+  width: 600px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
+.searchCont{
+  padding: 3rem;
+  display: flex;
+  gap: 1rem;
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  input{
+    width: 500px;
+    padding: 1rem;
+    border: 0;
+    border-bottom: 1px solid #000;
+    outline: none;
   }
-  to {
-    transform: rotate(360deg);
+
+  button{
+    white-space: nowrap;
+    width: 5rem;
+    padding: 1rem;
+    background-color: #000;
+    border: 0;
+    color: #fff;
+  }
+}
+
+.resultCont{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+
+  .resultItemCont{
+    border-radius: 1rem;
+    box-shadow: 0 0 10px 0 #ddd;
+    padding: 1rem;
+    box-sizing: border-box;
+
+    .title{
+      width: 500px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .description{
+      color: #777;
+    }
+
+    .bottomCont{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      .nameDate{
+        font-size: 0.8rem;
+        color: #777;
+      }
+      a{
+        text-decoration: none;
+      }
+    }
   }
 }
