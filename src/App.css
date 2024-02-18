@@ -1,76 +1,108 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css");
 
-.myApp, .App, body{
+*{
 margin: 0;
 padding: 0;
-font-family: "Noto Sans KR", sans-serif;
+font-family: 'Pretendard Variable';
 font-optical-sizing: auto;
 text-align: left;
 }
 
+body{
+  background-color: #ccc;
+}
 .App{
   margin: 0 auto;
-  width: 600px;
+  width: 100%;
+  max-width: 768px;
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-.searchCont{
-  padding: 3rem;
-  display: flex;
-  gap: 1rem;
-
-  input{
-    width: 500px;
-    padding: 1rem;
-    border: 0;
-    border-bottom: 1px solid #000;
-    outline: none;
-  }
-
-  button{
-    white-space: nowrap;
-    width: 5rem;
-    padding: 1rem;
-    background-color: #000;
-    border: 0;
-    color: #fff;
-  }
+  background-color: #fff;
+  padding: 10px;
 }
 
-.resultCont{
+.recommendCont{
   display: flex;
-  flex-direction: column;
-  gap: 2rem;
+  justify-content: space-between;
+  margin: 1rem 0;
 
-  .resultItemCont{
-    border-radius: 1rem;
-    box-shadow: 0 0 10px 0 #ddd;
-    padding: 1rem;
-    box-sizing: border-box;
-
-    .title{
-      width: 500px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
-    .description{
+  .reLeftCont{
+    .subTitle{
+      display: block;
       color: #777;
+      margin-bottom: 0.5rem;
     }
 
-    .bottomCont{
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      .nameDate{
-        font-size: 0.8rem;
-        color: #777;
+    .contentsTitle{
+      font-weight: 700;
+      font-size: 2rem;
+      span{
+        color: rgb(0, 102, 255);
       }
-      a{
-        text-decoration: none;
+      margin: 0.5rem 0 1.5rem 0;
+    }
+    a{
+      text-decoration: none;
+      color: #000;
+    }
+  }
+  .reRightCont{
+    width: calc(100% - 270px);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 1rem;
+
+    .resultItemCont{
+      
+      .notImg, img{
+        width: 100%;
+        height: 150px;
+        object-fit: cover;
+        border-radius: 1rem;
+        background-color: rgb(181,210,255);
+      }
+
+      .notImg{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      figcaption{
+        margin-bottom: 2rem;
+
+        .title{
+          margin-top: 0.5rem;
+          font-size: 1.2rem;
+          display: block;
+          white-space: nowrap;
+          width: 200px;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+        .snippet{
+          font-size: 0.9rem;
+          color: #777;
+          margin-top: 0.5rem;
+          display: block;
+          white-space: nowrap;
+          width: 200px;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
       }
     }
+  }
+}
+
+@media (max-width:767px) {
+  .recommendCont{
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .reLeftCont, .reRightCont{
+    width: 100% !important;
   }
 }

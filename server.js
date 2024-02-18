@@ -30,5 +30,5 @@ app.get('/search/blog', function (req, res) {
  });
 
  app.listen(3333, function () {
-   console.log('http://127.0.0.1:3333/search/blog?query=검색어 app listening on port 3333!');
+   console.log('google app listening on port 3333!');
  });

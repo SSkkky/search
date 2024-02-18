@@ -1,0 +1,796 @@
+{
+    "리액트 훅" : {
+        "kind": "customsearch#search",
+        "url": {
+            "type": "application/json",
+            "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+        },
+        "queries": {
+            "request": [
+                {
+                    "title": "Google Custom Search - 리액트 useState",
+                    "totalResults": "42300",
+                    "searchTerms": "리액트 useState",
+                    "count": 4,
+                    "startIndex": 1,
+                    "inputEncoding": "utf8",
+                    "outputEncoding": "utf8",
+                    "safe": "off",
+                    "cx": "c3bfeca1422984473"
+                }
+            ],
+            "nextPage": [
+                {
+                    "title": "Google Custom Search - 리액트 useState",
+                    "totalResults": "42300",
+                    "searchTerms": "리액트 useState",
+                    "count": 4,
+                    "startIndex": 5,
+                    "inputEncoding": "utf8",
+                    "outputEncoding": "utf8",
+                    "safe": "off",
+                    "cx": "c3bfeca1422984473"
+                }
+            ]
+        },
+        "context": {
+            "title": "chodingTest"
+        },
+        "searchInformation": {
+            "searchTime": 0.477897,
+            "formattedSearchTime": "0.48",
+            "totalResults": "42300",
+            "formattedTotalResults": "42,300"
+        },
+        "items": [
+            {
+                "kind": "customsearch#result",
+                "title": "[React] 다시 한번 useState를 파헤쳐보자.",
+                "htmlTitle": "[<b>React</b>] 다시 한번 <b>useState</b>를 파헤쳐보자.",
+                "link": "https://velog.io/@hjthgus777/%EB%8B%A4%EC%8B%9C-%ED%95%9C%EB%B2%88-useState-%EB%A5%BC-%ED%8C%8C%ED%97%A4%EC%B3%90%EB%B3%B4%EC%9E%90",
+                "displayLink": "velog.io",
+                "snippet": "Jul 28, 2022 ... 리액트에서 함수현 컴포넌트를 사용하면 리액트의 편리한 hook을 사용할 수 있다. hook의 종류는 다양한데 그 중 가장 기본적이고 제일 중요한 ...",
+                "htmlSnippet": "Jul 28, 2022 <b>...</b> <b>리액트</b>에서 함수현 컴포넌트를 사용하면 <b>리액트</b>의 편리한 hook을 사용할 수 있다. hook의 종류는 다양한데 그 중 가장 기본적이고 제일 중요한&nbsp;...",
+                "cacheId": "V1v-yrux1EMJ",
+                "formattedUrl": "https://velog.io/@hjthgus777/다시-한번-useState-를-파헤쳐보자",
+                "htmlFormattedUrl": "https://velog.io/@hjthgus777/다시-한번-<b>useState</b>-를-파헤쳐보자",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcd1jNEWL44s4R9wxzex2VN0F2cVX07C-LMHRyk7x__fgLa1r8QxpkEAji",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://velog.velcdn.com/images/hjthgus777/post/40fc1dbd-5b46-42f5-9926-e6f5f59bc56b/image.png",
+                            "fb:app_id": "203040656938507",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "[React] 다시 한번 useState를 파헤쳐보자.",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "리액트에서 함수현 컴포넌트를 사용하면 리액트의 편리한 hook을 사용할 수 있다.\nhook의 종류는 다양한데 그 중 가장 기본적이고 제일 중요한 useState를 다시 공부해보자.\n\nuseState 란?\n컴포넌트의 상태를 간편하게 생성하고 업데이트 해주는 도구를 제공",
+                            "og:title": "[React] 다시 한번 useState를 파헤쳐보자.",
+                            "og:url": "https://velog.io/@hjthgus777/다시-한번-useState-를-파헤쳐보자",
+                            "og:description": "리액트에서 함수현 컴포넌트를 사용하면 리액트의 편리한 hook을 사용할 수 있다.\nhook의 종류는 다양한데 그 중 가장 기본적이고 제일 중요한 useState를 다시 공부해보자.\n\nuseState 란?\n컴포넌트의 상태를 간편하게 생성하고 업데이트 해주는 도구를 제공",
+                            "twitter:image": "https://velog.velcdn.com/images/hjthgus777/post/40fc1dbd-5b46-42f5-9926-e6f5f59bc56b/image.png"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://velog.velcdn.com/images/hjthgus777/post/40fc1dbd-5b46-42f5-9926-e6f5f59bc56b/image.png"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "[React] useState 사용법 및 예제",
+                "htmlTitle": "[<b>React</b>] <b>useState</b> 사용법 및 예제",
+                "link": "https://itprogramming119.tistory.com/entry/React-useState-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%98%88%EC%A0%9C",
+                "displayLink": "itprogramming119.tistory.com",
+                "snippet": "Mar 18, 2022 ... [변수 선언]. 아래처럼 state의 생성과 동시에 가져야 할 초기값을 useState함수의 인자로 넣어주면 state와 setState라는 두 가지 요소를 배열 형태로 ...",
+                "htmlSnippet": "Mar 18, 2022 <b>...</b> [변수 선언]. 아래처럼 state의 생성과 동시에 가져야 할 초기값을 <b>useState</b>함수의 인자로 넣어주면 state와 setState라는 두 가지 요소를 배열 형태로&nbsp;...",
+                "cacheId": "Gl6TY0AZXMIJ",
+                "formattedUrl": "https://itprogramming119.tistory.com/entry/React-useState-사용법-및-예제",
+                "htmlFormattedUrl": "https://itprogramming119.tistory.com/entry/React-<b>useState</b>-사용법-및-예제",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQB50X-AVYewDgzlTYd5MhuE4YsWBDpMIBuVc1z6FXaQbAlZpxOobxwUeSV",
+                            "width": "260",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://blog.kakaocdn.net/dn/VT1Yc/btrwnOt4zrM/0tq6PyV5GFIdu72SsPL49K/img.gif",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-03-18T22:31:12+09:00",
+                            "og:site_name": "코딩병원",
+                            "article:mobile_view_url": "https://itprogramming119.tistory.com/m/entry/React-useState-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%98%88%EC%A0%9C",
+                            "google-adsense-account": "ca-pub-4520397846199444",
+                            "article:mobile_service_home": "https://www.tistory.com/m",
+                            "article:pc_view_url": "https://itprogramming119.tistory.com/entry/React-useState-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%98%88%EC%A0%9C",
+                            "title": "[React] useState 사용법 및 예제 :: 코딩병원",
+                            "og:description": "[State란?] 먼저 State란 컴포넌트가 가질 수 있는 상태를 말합니다. 예를 들어 시간이라는 컴포넌트가 있다면 state로 현재 시간을 가질 수 있습니다. [Import] react Hooks의 useState는 컴포넌트의 state를 간편하게 생성하고 업데이트를 시킬 수 있게 해주는 도구를 제공해줍니다. useState를 사용하기 위해서는 react에서 useState를 import 받아야 합니다. import { useState } from 'react'; [변수 선언] 아래처럼 state의 생성과 동시에 가져야 할 초기값을 useState함수의 인자로 넣어주면 state와 setState라는 두 가지 요소를 배열 형태로 리턴해줍니다. state명은 알맞게 설정하시면 되고 두 번째 요소에 se..",
+                            "twitter:image": "https://blog.kakaocdn.net/dn/VT1Yc/btrwnOt4zrM/0tq6PyV5GFIdu72SsPL49K/img.gif",
+                            "article:talk_channel_view_url": "https://itprogramming119.tistory.com/m/entry/React-useState-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%98%88%EC%A0%9C",
+                            "twitter:site": "@TISTORY",
+                            "article:pc_url": "https://itprogramming119.tistory.com/entry/React-useState-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%98%88%EC%A0%9C",
+                            "article:modified_time": "2022-03-25T22:51:57+09:00",
+                            "article:txid": "3005440_683",
+                            "by": "코딩병원",
+                            "article:media_name": "코딩병원",
+                            "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                            "article:mobile_url": "https://itprogramming119.tistory.com/m/entry/React-useState-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%98%88%EC%A0%9C",
+                            "dg:plink": "https://itprogramming119.tistory.com/683",
+                            "og:article:author": "코딩병원",
+                            "og:type": "article",
+                            "article:section": "IT 인터넷",
+                            "twitter:title": "[React] useState 사용법 및 예제",
+                            "og:title": "[React] useState 사용법 및 예제",
+                            "article:pc_service_home": "https://www.tistory.com",
+                            "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0 ,minimum-scale=1.0, width=device-width, viewport-fit=cover",
+                            "twitter:description": "[State란?] 먼저 State란 컴포넌트가 가질 수 있는 상태를 말합니다. 예를 들어 시간이라는 컴포넌트가 있다면 state로 현재 시간을 가질 수 있습니다. [Import] react Hooks의 useState는 컴포넌트의 state를 간편하게 생성하고 업데이트를 시킬 수 있게 해주는 도구를 제공해줍니다. useState를 사용하기 위해서는 react에서 useState를 import 받아야 합니다. import { useState } from 'react'; [변수 선언] 아래처럼 state의 생성과 동시에 가져야 할 초기값을 useState함수의 인자로 넣어주면 state와 setState라는 두 가지 요소를 배열 형태로 리턴해줍니다. state명은 알맞게 설정하시면 되고 두 번째 요소에 se..",
+                            "plink": "https://itprogramming119.tistory.com/683",
+                            "google-adsense-platform-domain": "tistory.com",
+                            "og:url": "https://itprogramming119.tistory.com/entry/React-useState-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B0%8F-%EC%98%88%EC%A0%9C",
+                            "format-detection": "telephone=no",
+                            "og:regdate": "20220318223112"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://blog.kakaocdn.net/dn/VT1Yc/btrwnOt4zrM/0tq6PyV5GFIdu72SsPL49K/img.gif"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "Using the State Hook – React",
+                "htmlTitle": "Using the State Hook – <b>React</b>",
+                "link": "https://ko.legacy.reactjs.org/docs/hooks-state.html",
+                "displayLink": "ko.legacy.reactjs.org",
+                "snippet": "import React, { useState } from 'react'; function Example() { // 새로운 state 변수를 선언하고, count라 부르겠습니다. const [count, setCount] = useState(0); ...",
+                "htmlSnippet": "import <b>React</b>, { <b>useState</b> } from &#39;<b>react</b>&#39;; function Example() { // 새로운 state 변수를 선언하고, count라 부르겠습니다. const [count, setCount] = <b>useState</b>(0);&nbsp;...",
+                "cacheId": "00FcKG_JbxAJ",
+                "formattedUrl": "https://ko.legacy.reactjs.org/docs/hooks-state.html",
+                "htmlFormattedUrl": "https://ko.legacy.reactjs.org/docs/hooks-state.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8ckj5CLZitzYAlmj6QZjvlnO7HxTYPjJLSMkgDMtQpxTYcC5vbrw9z_C7",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://legacy.reactjs.org/logo-og.png",
+                            "og:type": "article",
+                            "fb:app_id": "623268441017527",
+                            "theme-color": "#20232a",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "apple-mobile-web-app-capable": "yes",
+                            "apple-mobile-web-app-title": "React",
+                            "og:title": "Using the State Hook – React",
+                            "og:url": "https://ko.legacy.reactjs.org/docs/hooks-state.html",
+                            "og:description": "A JavaScript library for building user interfaces"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://legacy.reactjs.org/logo-og.png"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "velog",
+                "htmlTitle": "velog",
+                "link": "https://velog.io/@jaychang99/React-%EC%9D%98-useState-%EB%BF%8C%EC%8B%9C%EA%B8%B0",
+                "displayLink": "velog.io",
+                "snippet": "개발자들을 위한 블로그 서비스. 어디서 글 쓸지 고민하지 말고 벨로그에서 시작하세요.",
+                "htmlSnippet": "개발자들을 위한 블로그 서비스. 어디서 글 쓸지 고민하지 말고 벨로그에서 시작하세요.",
+                "cacheId": "eMDB2FVFgGwJ",
+                "formattedUrl": "https://velog.io/@jaychang99/React-의-useState-뿌시기",
+                "htmlFormattedUrl": "https://velog.io/@jaychang99/React-의-<b>useState</b>-뿌시기",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_mNOxe8dIfsYpa1TTCt_ym8_iyHOm_Kyeue1Qg9GjHvWI3FmjbSiVqU4s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.velog.io/velog.png",
+                            "fb:app_id": "203040656938507",
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.velog.io/velog.png"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "넥스트 라우팅" : {
+        "kind": "customsearch#search",
+        "url": {
+            "type": "application/json",
+            "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+        },
+        "queries": {
+            "request": [
+                {
+                    "title": "Google Custom Search - 넥스트 ",
+                    "totalResults": "95000",
+                    "searchTerms": "넥스트 ",
+                    "count": 4,
+                    "startIndex": 1,
+                    "inputEncoding": "utf8",
+                    "outputEncoding": "utf8",
+                    "safe": "off",
+                    "cx": "c3bfeca1422984473"
+                }
+            ],
+            "nextPage": [
+                {
+                    "title": "Google Custom Search - 넥스트 ",
+                    "totalResults": "95000",
+                    "searchTerms": "넥스트 ",
+                    "count": 4,
+                    "startIndex": 5,
+                    "inputEncoding": "utf8",
+                    "outputEncoding": "utf8",
+                    "safe": "off",
+                    "cx": "c3bfeca1422984473"
+                }
+            ]
+        },
+        "context": {
+            "title": "chodingTest"
+        },
+        "searchInformation": {
+            "searchTime": 0.215454,
+            "formattedSearchTime": "0.22",
+            "totalResults": "95000",
+            "formattedTotalResults": "95,000"
+        },
+        "items": [
+            {
+                "kind": "customsearch#result",
+                "title": "네스프레소 버츄오 넥스트, 버츄오 플러스 차이점은? :: 가전 인사이트",
+                "htmlTitle": "네스프레소 버츄오 <b>넥스트</b>, 버츄오 플러스 차이점은? :: 가전 인사이트",
+                "link": "https://elecinsight.tistory.com/42",
+                "displayLink": "elecinsight.tistory.com",
+                "snippet": "Dec 24, 2021 ... 네스프레소의 인기 캡슐커피머신인 버츄오 플러스의 후속 모델 버츄오 넥스트가 출시되었다. 버츄오 넥스트의 가격이 버츄오 플러스보다 저렴하다 ...",
+                "htmlSnippet": "Dec 24, 2021 <b>...</b> 네스프레소의 인기 캡슐커피머신인 버츄오 플러스의 후속 모델 버츄오 <b>넥스트</b>가 출시되었다. 버츄오 <b>넥스트</b>의 가격이 버츄오 플러스보다 저렴하다&nbsp;...",
+                "cacheId": "sDa_kf030OQJ",
+                "formattedUrl": "https://elecinsight.tistory.com/42",
+                "htmlFormattedUrl": "https://elecinsight.tistory.com/42",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQV_-dzkJ7TyiMNZuFK7s48z8Arl6nJ6_jMwNDt6ZJ23VMIbUFGn66F_Js",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbksfjK%2FbtroJDfIQKo%2FK3EBfZeEgqS37xmK2jxEIK%2Fimg.jpg",
+                            "og.article.author": "가전인간",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2021-12-24T06:22:50+09:00",
+                            "og:site_name": "가전 인사이트",
+                            "article:mobile_view_url": "https://elecinsight.tistory.com/m/42",
+                            "article:mobile_service_home": "https://www.tistory.com/m",
+                            "article:pc_view_url": "https://elecinsight.tistory.com/42",
+                            "title": "네스프레소 버츄오 넥스트, 버츄오 플러스 차이점은?",
+                            "og:description": "네스프레소의 인기 캡슐커피머신인 버츄오 플러스의 후속 모델 버츄오 넥스트가 출시되었다. 버츄오 넥스트의 가격이 버츄오 플러스보다 저렴하다 보니 단순히 버츄오 플러스의 보급형 모델로 생각할 수도 있는데, 이는 반은 맞고 반은 틀린 얘기다. 그렇다면 버츄오 넥스트는 버츄오 플러스에 비해 어떤 점이 부족하고, 어떤 점이 나은지 비교해보도록 하겠다. 버츄오 넥스트 VS 버츄오 플러스 비교표 상품명 버츄오 넥스트 버츄오 플러스 색상 블랙, 그레이 블랙, 매트블랙, 실버 화이트 크기 (WxDxHmm) 142x429x314 142x423x325 142x412x325 무게 4kg 4.6kg 4.3kg 물탱크 1.1L 1.8L 1.2L 캡슐 컨테이너 6~10개 10~13개 크래프트 브루 O (카라프 535ml) X 예열..",
+                            "twitter:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbksfjK%2FbtroJDfIQKo%2FK3EBfZeEgqS37xmK2jxEIK%2Fimg.jpg",
+                            "article:talk_channel_view_url": "https://elecinsight.tistory.com/m/42",
+                            "twitter:site": "@TISTORY",
+                            "naver-site-verification": "f356a660e4d689f1c719584063846c4fe79a2213",
+                            "article:pc_url": "https://elecinsight.tistory.com/42",
+                            "article:modified_time": "2022-02-06T22:56:49+09:00",
+                            "article:txid": "5076815_42",
+                            "by": "가전인간",
+                            "article:media_name": "가전 인사이트",
+                            "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                            "article:mobile_url": "https://elecinsight.tistory.com/m/42",
+                            "dg:plink": "https://elecinsight.tistory.com/42",
+                            "og:type": "article",
+                            "article:section": "'생활정보'",
+                            "twitter:title": "네스프레소 버츄오 넥스트, 버츄오 플러스 차이점은?",
+                            "msvalidate.01": "C3D7A67CD7628F9A399162F3E289ED0B",
+                            "og:title": "네스프레소 버츄오 넥스트, 버츄오 플러스 차이점은?",
+                            "article:pc_service_home": "https://www.tistory.com",
+                            "referrer": "always",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0",
+                            "twitter:description": "네스프레소의 인기 캡슐커피머신인 버츄오 플러스의 후속 모델 버츄오 넥스트가 출시되었다. 버츄오 넥스트의 가격이 버츄오 플러스보다 저렴하다 보니 단순히 버츄오 플러스의 보급형 모델로 생각할 수도 있는데, 이는 반은 맞고 반은 틀린 얘기다. 그렇다면 버츄오 넥스트는 버츄오 플러스에 비해 어떤 점이 부족하고, 어떤 점이 나은지 비교해보도록 하겠다. 버츄오 넥스트 VS 버츄오 플러스 비교표 상품명 버츄오 넥스트 버츄오 플러스 색상 블랙, 그레이 블랙, 매트블랙, 실버 화이트 크기 (WxDxHmm) 142x429x314 142x423x325 142x412x325 무게 4kg 4.6kg 4.3kg 물탱크 1.1L 1.8L 1.2L 캡슐 컨테이너 6~10개 10~13개 크래프트 브루 O (카라프 535ml) X 예열..",
+                            "google-adsense-platform-domain": "tistory.com",
+                            "og:url": "https://elecinsight.tistory.com/42",
+                            "format-detection": "telephone=no",
+                            "og:regdate": "20211224062250"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbksfjK%2FbtroJDfIQKo%2FK3EBfZeEgqS37xmK2jxEIK%2Fimg.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "[넥스트 오더] 번영도 - 테리어몬 & 로프몬",
+                "htmlTitle": "[<b>넥스트</b> 오더] 번영도 - 테리어몬 &amp; 로프몬",
+                "link": "https://toyagumon.tistory.com/73",
+                "displayLink": "toyagumon.tistory.com",
+                "snippet": "May 10, 2023 ... [넥스트 오더] 번영도 - 테리어몬 & 로프몬 · 테리어몬과 로프몬은 호네 오 리조트 - 코프스 웨이에 있습니다. · 테리어몬은 퀴즈를 하자고 합니다.",
+                "htmlSnippet": "May 10, 2023 <b>...</b> [<b>넥스트</b> 오더] 번영도 - 테리어몬 &amp; 로프몬 &middot; 테리어몬과 로프몬은 호네 오 리조트 - 코프스 웨이에 있습니다. &middot; 테리어몬은 퀴즈를 하자고 합니다.",
+                "cacheId": "T1YNGTaYce0J",
+                "formattedUrl": "https://toyagumon.tistory.com/73",
+                "htmlFormattedUrl": "https://toyagumon.tistory.com/73",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZIUr0ZA6uVs_rPR3sNCjJCbGPOzoSlauts7c2KhY9Fy4eZJXit2pqNWA",
+                            "width": "176",
+                            "height": "176"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://blog.kakaocdn.net/dn/bmlUQf/btseATFV4So/DbQiuf2Me9ivSp1Jn8f0V0/img.webp",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-05-10T08:08:45+09:00",
+                            "og:site_name": "취미 & 디지몬",
+                            "article:mobile_view_url": "https://toyagumon.tistory.com/m/73",
+                            "article:mobile_service_home": "https://www.tistory.com/m",
+                            "article:pc_view_url": "https://toyagumon.tistory.com/73",
+                            "title": "[넥스트 오더] 번영도 - 테리어몬 & 로프몬 :: 취미 & 디지몬",
+                            "og:description": "테리어몬과 로프몬은 2장이후 부터 마을로 데려올 수 있으며 데려오기 위해서는 레스토랑 LV2 업그레이드가 필요하다고 합니다. 이벤트가 진행되지 않을 경우 건축소에서 LV2로 업그레이드를 해주시기 바랍니다. 테리어몬과 로프몬은 호네 오 리조트에 있으며 이 호네 오 리조트에 가기 위해서는 아이언레오몬 이벤트를 완료하여 오기노 황야를 통해서 가야 합니다. 아이언 레오몬 퀘스트는 아래의 링크에서 참고 하실 수 있습니다. [넥스트 오더] 번영도 - 아이언레오몬 & 가르고몬 아이언레오몬과 가고몬은 동일한 퀘스트 내에서 마을로 돌아옵니다. 아이언레오몬은 서버 사막 - 스텝스텝에 있습니다. 아이언레오몬은 터빈을 고쳐달라고 가르고몬에게 디지윤활유를 받아달 toyagumon.tistory.com 테리어몬과 로프몬은 호네 ..",
+                            "twitter:image": "https://blog.kakaocdn.net/dn/bmlUQf/btseATFV4So/DbQiuf2Me9ivSp1Jn8f0V0/img.webp",
+                            "article:talk_channel_view_url": "https://toyagumon.tistory.com/m/73",
+                            "twitter:site": "@TISTORY",
+                            "naver-site-verification": "24e4ada43261666083090ddcf2a516536e1cbcc0",
+                            "article:pc_url": "https://toyagumon.tistory.com/73",
+                            "article:modified_time": "2023-05-20T17:11:06+09:00",
+                            "article:txid": "6296750_73",
+                            "by": "토이아구몬",
+                            "article:media_name": "취미 & 디지몬",
+                            "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                            "article:mobile_url": "https://toyagumon.tistory.com/m/73",
+                            "dg:plink": "https://toyagumon.tistory.com/73",
+                            "og:article:author": "토이아구몬",
+                            "og:type": "article",
+                            "article:section": "게임",
+                            "twitter:title": "[넥스트 오더] 번영도 - 테리어몬 & 로프몬",
+                            "og:title": "[넥스트 오더] 번영도 - 테리어몬 & 로프몬",
+                            "article:pc_service_home": "https://www.tistory.com",
+                            "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0 ,minimum-scale=1.0, width=device-width, viewport-fit=cover",
+                            "twitter:description": "테리어몬과 로프몬은 2장이후 부터 마을로 데려올 수 있으며 데려오기 위해서는 레스토랑 LV2 업그레이드가 필요하다고 합니다. 이벤트가 진행되지 않을 경우 건축소에서 LV2로 업그레이드를 해주시기 바랍니다. 테리어몬과 로프몬은 호네 오 리조트에 있으며 이 호네 오 리조트에 가기 위해서는 아이언레오몬 이벤트를 완료하여 오기노 황야를 통해서 가야 합니다. 아이언 레오몬 퀘스트는 아래의 링크에서 참고 하실 수 있습니다. [넥스트 오더] 번영도 - 아이언레오몬 & 가르고몬 아이언레오몬과 가고몬은 동일한 퀘스트 내에서 마을로 돌아옵니다. 아이언레오몬은 서버 사막 - 스텝스텝에 있습니다. 아이언레오몬은 터빈을 고쳐달라고 가르고몬에게 디지윤활유를 받아달 toyagumon.tistory.com 테리어몬과 로프몬은 호네 ..",
+                            "plink": "https://toyagumon.tistory.com/73",
+                            "google-adsense-platform-domain": "tistory.com",
+                            "og:url": "https://toyagumon.tistory.com/73",
+                            "format-detection": "telephone=no",
+                            "og:regdate": "20230510080845"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img1.daumcdn.net/thumb/C176x176/?fname=https://blog.kakaocdn.net/dn/bmlUQf/btseATFV4So/DbQiuf2Me9ivSp1Jn8f0V0/img.webp"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "[넥스트 오더] 번영도 - 고부리몬",
+                "htmlTitle": "[<b>넥스트</b> 오더] 번영도 - 고부리몬",
+                "link": "https://toyagumon.tistory.com/34",
+                "displayLink": "toyagumon.tistory.com",
+                "snippet": "Apr 29, 2023 ... 아이언레오몬은 서버 사막 - 스텝스텝에 있습니다. 아이언레오몬은 터빈을 고쳐달라고 가르고몬에게 디지윤활유를 받아달라고 요청합니다. 가르고몬은 ...",
+                "htmlSnippet": "Apr 29, 2023 <b>...</b> 아이언레오몬은 서버 사막 - 스텝스텝에 있습니다. 아이언레오몬은 터빈을 고쳐달라고 가르고몬에게 디지윤활유를 받아달라고 요청합니다. 가르고몬은&nbsp;...",
+                "cacheId": "Gs1T2eXC8KUJ",
+                "formattedUrl": "https://toyagumon.tistory.com/34",
+                "htmlFormattedUrl": "https://toyagumon.tistory.com/34",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxks4NUzqQ-wcxVSn8g_T1_woKjGwQVG2hUe-xEMXtO8otU3Occ74oasof",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://blog.kakaocdn.net/dn/djRdhO/btsdc2espCI/IKZ2C7t6FYqDdWKhJGJbBk/img.webp",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-04-29T16:20:21+09:00",
+                            "og:site_name": "취미 & 디지몬",
+                            "article:mobile_view_url": "https://toyagumon.tistory.com/m/34",
+                            "article:mobile_service_home": "https://www.tistory.com/m",
+                            "article:pc_view_url": "https://toyagumon.tistory.com/34",
+                            "title": "[넥스트 오더] 번영도 - 고부리몬 :: 취미 & 디지몬",
+                            "og:description": "고부리몬은 2장에서 아이언레오몬 퀘스트를 진행하여 모래벽을 뚫은 후 마을로 데려올 수 있습니다. 아이언레오몬 퀘스트는 아래의 링크를 참고하실 수 있습니다. [넥스트 오더] 번영도 - 아이언레오몬 & 가르고몬 아이언레오몬과 가고몬은 동일한 퀘스트 내에서 마을로 돌아옵니다. 아이언레오몬은 서버 사막 - 스텝스텝에 있습니다. 아이언레오몬은 터빈을 고쳐달라고 가르고몬에게 디지윤활유를 받아달 toyagumon.tistory.com 고부리몬은 오기노 황야 - 드리터널 집합소 2 에 있으며 가기 위해서는 근성황야에서 위의 화살표 쳐진 부분에 있는 입구로 들어가합니다. 해당 입구는 게임내 지도상에서 표시되지 않습니다. 고부리몬은 드리터널 집합소 2에 있습니다. 고부리몬은 자신의 영역이란 말을 하면서 길을 막고 있습니다..",
+                            "twitter:image": "https://blog.kakaocdn.net/dn/djRdhO/btsdc2espCI/IKZ2C7t6FYqDdWKhJGJbBk/img.webp",
+                            "article:talk_channel_view_url": "https://toyagumon.tistory.com/m/34",
+                            "twitter:site": "@TISTORY",
+                            "naver-site-verification": "24e4ada43261666083090ddcf2a516536e1cbcc0",
+                            "article:pc_url": "https://toyagumon.tistory.com/34",
+                            "article:modified_time": "2023-04-29T16:20:21+09:00",
+                            "article:txid": "6296750_34",
+                            "by": "토이아구몬",
+                            "article:media_name": "취미 & 디지몬",
+                            "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                            "article:mobile_url": "https://toyagumon.tistory.com/m/34",
+                            "dg:plink": "https://toyagumon.tistory.com/34",
+                            "og:article:author": "토이아구몬",
+                            "og:type": "article",
+                            "article:section": "게임",
+                            "twitter:title": "[넥스트 오더] 번영도 - 고부리몬",
+                            "og:title": "[넥스트 오더] 번영도 - 고부리몬",
+                            "article:pc_service_home": "https://www.tistory.com",
+                            "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0 ,minimum-scale=1.0, width=device-width, viewport-fit=cover",
+                            "twitter:description": "고부리몬은 2장에서 아이언레오몬 퀘스트를 진행하여 모래벽을 뚫은 후 마을로 데려올 수 있습니다. 아이언레오몬 퀘스트는 아래의 링크를 참고하실 수 있습니다. [넥스트 오더] 번영도 - 아이언레오몬 & 가르고몬 아이언레오몬과 가고몬은 동일한 퀘스트 내에서 마을로 돌아옵니다. 아이언레오몬은 서버 사막 - 스텝스텝에 있습니다. 아이언레오몬은 터빈을 고쳐달라고 가르고몬에게 디지윤활유를 받아달 toyagumon.tistory.com 고부리몬은 오기노 황야 - 드리터널 집합소 2 에 있으며 가기 위해서는 근성황야에서 위의 화살표 쳐진 부분에 있는 입구로 들어가합니다. 해당 입구는 게임내 지도상에서 표시되지 않습니다. 고부리몬은 드리터널 집합소 2에 있습니다. 고부리몬은 자신의 영역이란 말을 하면서 길을 막고 있습니다..",
+                            "plink": "https://toyagumon.tistory.com/34",
+                            "google-adsense-platform-domain": "tistory.com",
+                            "og:url": "https://toyagumon.tistory.com/34",
+                            "format-detection": "telephone=no",
+                            "og:regdate": "20230429162021"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://blog.kakaocdn.net/dn/Qzl1f/btsdc01XZrT/tmqAMBbYuKmEkXfrwlPHdk/img.webp"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "[넥스트 오더] 번영도 - 텐타몬",
+                "htmlTitle": "[<b>넥스트</b> 오더] 번영도 - 텐타몬",
+                "link": "https://toyagumon.tistory.com/6",
+                "displayLink": "toyagumon.tistory.com",
+                "snippet": "Apr 22, 2023 ... 워메몬은 녹색 디지버섯 5개를 요구합니다. 녹색 디지버섯은 숲속 오솔길 여기저기서 나오기 때문에 쉽게 구하실 수 있습니다. 주변맵 몬스터들도 녹색 ...",
+                "htmlSnippet": "Apr 22, 2023 <b>...</b> 워메몬은 녹색 디지버섯 5개를 요구합니다. 녹색 디지버섯은 숲속 오솔길 여기저기서 나오기 때문에 쉽게 구하실 수 있습니다. 주변맵 몬스터들도 녹색&nbsp;...",
+                "cacheId": "Vmtu2LR8nU8J",
+                "formattedUrl": "https://toyagumon.tistory.com/6",
+                "htmlFormattedUrl": "https://toyagumon.tistory.com/6",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbU8l021U4mUL-zwGJqzpE8fjKr4VmfL7Q9WoIH8mhU_Yim0T-O2kViEb4",
+                            "width": "176",
+                            "height": "176"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://blog.kakaocdn.net/dn/Yu128/btsbXJlpFi5/cC1Tg7OfS6GB1kfYBs5mT0/img.png",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-04-22T14:56:18+09:00",
+                            "og:site_name": "취미 & 디지몬",
+                            "article:mobile_view_url": "https://toyagumon.tistory.com/m/6",
+                            "article:mobile_service_home": "https://www.tistory.com/m",
+                            "article:pc_view_url": "https://toyagumon.tistory.com/6",
+                            "title": "[넥스트 오더] 번영도 - 텐타몬 :: 취미 & 디지몬",
+                            "og:description": "위이미지의 붉은 화살표가 있는 곳으로 가면 텐타몬을 만날 수 있습니다. 텐타몬에게 아이템을 흥정하지 않고 100bit로 구매하면 텐타몬이 마을로 옵니다. 스토리를 진행하여 마을을 확장하기 전까지 텐타몬은 주간에만 등장하여 아이템을 판매합니다. 텐타몬은 위의 아이템들을 판매합니다. 건축소에서 업그레이드를 하면 더 많은 아이템을 판매하게 됩니다. 번영도는 1 증가합니다.",
+                            "twitter:image": "https://blog.kakaocdn.net/dn/Yu128/btsbXJlpFi5/cC1Tg7OfS6GB1kfYBs5mT0/img.png",
+                            "article:talk_channel_view_url": "https://toyagumon.tistory.com/m/6",
+                            "twitter:site": "@TISTORY",
+                            "naver-site-verification": "24e4ada43261666083090ddcf2a516536e1cbcc0",
+                            "article:pc_url": "https://toyagumon.tistory.com/6",
+                            "article:modified_time": "2023-04-24T04:21:16+09:00",
+                            "article:txid": "6296750_6",
+                            "by": "토이아구몬",
+                            "article:media_name": "취미 & 디지몬",
+                            "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                            "article:mobile_url": "https://toyagumon.tistory.com/m/6",
+                            "dg:plink": "https://toyagumon.tistory.com/6",
+                            "og:article:author": "토이아구몬",
+                            "og:type": "article",
+                            "twitter:title": "[넥스트 오더] 번영도 - 텐타몬",
+                            "og:title": "[넥스트 오더] 번영도 - 텐타몬",
+                            "article:pc_service_home": "https://www.tistory.com",
+                            "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0 ,minimum-scale=1.0, width=device-width, viewport-fit=cover",
+                            "twitter:description": "위이미지의 붉은 화살표가 있는 곳으로 가면 텐타몬을 만날 수 있습니다. 텐타몬에게 아이템을 흥정하지 않고 100bit로 구매하면 텐타몬이 마을로 옵니다. 스토리를 진행하여 마을을 확장하기 전까지 텐타몬은 주간에만 등장하여 아이템을 판매합니다. 텐타몬은 위의 아이템들을 판매합니다. 건축소에서 업그레이드를 하면 더 많은 아이템을 판매하게 됩니다. 번영도는 1 증가합니다.",
+                            "plink": "https://toyagumon.tistory.com/6",
+                            "google-adsense-platform-domain": "tistory.com",
+                            "og:url": "https://toyagumon.tistory.com/6",
+                            "format-detection": "telephone=no",
+                            "og:regdate": "20230422145618"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img1.daumcdn.net/thumb/C176x176/?fname=https://blog.kakaocdn.net/dn/Yu128/btsbXJlpFi5/cC1Tg7OfS6GB1kfYBs5mT0/img.png"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "HTML 기초" : {
+        "kind": "customsearch#search",
+        "url": {
+            "type": "application/json",
+            "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+        },
+        "queries": {
+            "request": [
+                {
+                    "title": "Google Custom Search - HTML 기초",
+                    "totalResults": "222000",
+                    "searchTerms": "HTML 기초",
+                    "count": 4,
+                    "startIndex": 1,
+                    "inputEncoding": "utf8",
+                    "outputEncoding": "utf8",
+                    "safe": "off",
+                    "cx": "c3bfeca1422984473"
+                }
+            ],
+            "nextPage": [
+                {
+                    "title": "Google Custom Search - HTML 기초",
+                    "totalResults": "222000",
+                    "searchTerms": "HTML 기초",
+                    "count": 4,
+                    "startIndex": 5,
+                    "inputEncoding": "utf8",
+                    "outputEncoding": "utf8",
+                    "safe": "off",
+                    "cx": "c3bfeca1422984473"
+                }
+            ]
+        },
+        "context": {
+            "title": "chodingTest"
+        },
+        "searchInformation": {
+            "searchTime": 0.445534,
+            "formattedSearchTime": "0.45",
+            "totalResults": "222000",
+            "formattedTotalResults": "222,000"
+        },
+        "items": [
+            {
+                "kind": "customsearch#result",
+                "title": "[HTML 기초 03]HTML 기본용어, 기본구조, 웹표준이란? :: 모행",
+                "htmlTitle": "[<b>HTML 기초</b> 03]HTML 기본용어, 기본구조, 웹표준이란? :: 모행",
+                "link": "https://molra0000.tistory.com/entry/HTML-%EA%B8%B0%EC%B4%88-03HTML-%EA%B8%B0%EB%B3%B8%EC%9A%A9%EC%96%B4-%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0-%EC%9B%B9%ED%91%9C%EC%A4%80%EC%9D%B4%EB%9E%80",
+                "displayLink": "molra0000.tistory.com",
+                "snippet": "Sep 29, 2021 ... [웹프로그래밍 기초강좌 - HTML 03] HTML 기본 용어 , 기본구조 그리고 웹표준이란?​ (HTML기초강좌 3강) ① 요소(element), 태그(tag) 란?",
+                "htmlSnippet": "Sep 29, 2021 <b>...</b> [웹프로그래밍 기초강좌 - HTML 03] HTML 기본 용어 , 기본구조 그리고 웹표준이란?​ (<b>HTML기초</b>강좌 3강) ① 요소(element), 태그(tag) 란?",
+                "cacheId": "ZaxUDelcdY4J",
+                "formattedUrl": "https://molra0000.tistory.com/.../HTML-기초-03HTML-기본용어-기본구...",
+                "htmlFormattedUrl": "https://molra0000.tistory.com/.../<b>HTML</b>-<b>기초</b>-03<b>HTML</b>-기본용어-기본구...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStQZwnmak_Aj8CUzKTWnomMrKEFfY308AaIVcQogYTN3m7enA6efiSV40",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJETLz%2FbtrgiOweYJ9%2FecFgXFZPb1Ki0lf9kjFbCk%2Fimg.jpg",
+                            "og.article.author": "모행",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2021-09-29T13:18:18+09:00",
+                            "og:site_name": "모행",
+                            "article:mobile_view_url": "https://molra0000.tistory.com/m/entry/HTML-%EA%B8%B0%EC%B4%88-03HTML-%EA%B8%B0%EB%B3%B8%EC%9A%A9%EC%96%B4-%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0-%EC%9B%B9%ED%91%9C%EC%A4%80%EC%9D%B4%EB%9E%80",
+                            "article:mobile_service_home": "https://www.tistory.com/m",
+                            "article:pc_view_url": "https://molra0000.tistory.com/entry/HTML-%EA%B8%B0%EC%B4%88-03HTML-%EA%B8%B0%EB%B3%B8%EC%9A%A9%EC%96%B4-%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0-%EC%9B%B9%ED%91%9C%EC%A4%80%EC%9D%B4%EB%9E%80",
+                            "title": "[HTML 기초 03]HTML 기본용어, 기본구조, 웹표준이란?",
+                            "og:description": "[웹프로그래밍 기초강좌 - HTML 03] HTML 기본 용어 , 기본구조 그리고 웹표준이란?​ (HTML기초강좌 3강) ① 요소(element), 태그(tag) 란? Start Tag Element content End Tag Hello World! HTML 기초강좌 none none - HTML 요소는 시작태그부터 종료태그까지의 모든 것입니다. - 태그는 꺽쇠 괄호로 표기합니다. - HTML 태그는 대부분 시작태그 / 종료태그가 있지만, 일부 태그들은 빈요소로 종료태그없이 사용될 수 있습니다. ( , 등) ② 속성 (Attribute) - 모든 HTML 요소는 속성을 가질 수 있습니다. - 속성은 요소에 대한 정보를 제공합니다. - 속성은 항상 시작태그에 지정합니다. - 속성은 대부분 name=\"va..",
+                            "twitter:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJETLz%2FbtrgiOweYJ9%2FecFgXFZPb1Ki0lf9kjFbCk%2Fimg.jpg",
+                            "article:talk_channel_view_url": "https://molra0000.tistory.com/m/entry/HTML-%EA%B8%B0%EC%B4%88-03HTML-%EA%B8%B0%EB%B3%B8%EC%9A%A9%EC%96%B4-%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0-%EC%9B%B9%ED%91%9C%EC%A4%80%EC%9D%B4%EB%9E%80",
+                            "twitter:site": "@TISTORY",
+                            "article:pc_url": "https://molra0000.tistory.com/entry/HTML-%EA%B8%B0%EC%B4%88-03HTML-%EA%B8%B0%EB%B3%B8%EC%9A%A9%EC%96%B4-%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0-%EC%9B%B9%ED%91%9C%EC%A4%80%EC%9D%B4%EB%9E%80",
+                            "article:modified_time": "2021-09-29T16:10:26+09:00",
+                            "article:txid": "4976028_5",
+                            "by": "모행",
+                            "article:media_name": "모행",
+                            "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                            "article:mobile_url": "https://molra0000.tistory.com/m/entry/HTML-%EA%B8%B0%EC%B4%88-03HTML-%EA%B8%B0%EB%B3%B8%EC%9A%A9%EC%96%B4-%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0-%EC%9B%B9%ED%91%9C%EC%A4%80%EC%9D%B4%EB%9E%80",
+                            "dg:plink": "https://molra0000.tistory.com/5",
+                            "og:type": "article",
+                            "twitter:title": "[HTML 기초 03]HTML 기본용어, 기본구조, 웹표준이란?",
+                            "og:title": "[HTML 기초 03]HTML 기본용어, 기본구조, 웹표준이란?",
+                            "article:pc_service_home": "https://www.tistory.com",
+                            "referrer": "always",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0",
+                            "twitter:description": "[웹프로그래밍 기초강좌 - HTML 03] HTML 기본 용어 , 기본구조 그리고 웹표준이란?​ (HTML기초강좌 3강) ① 요소(element), 태그(tag) 란? Start Tag Element content End Tag Hello World! HTML 기초강좌 none none - HTML 요소는 시작태그부터 종료태그까지의 모든 것입니다. - 태그는 꺽쇠 괄호로 표기합니다. - HTML 태그는 대부분 시작태그 / 종료태그가 있지만, 일부 태그들은 빈요소로 종료태그없이 사용될 수 있습니다. ( , 등) ② 속성 (Attribute) - 모든 HTML 요소는 속성을 가질 수 있습니다. - 속성은 요소에 대한 정보를 제공합니다. - 속성은 항상 시작태그에 지정합니다. - 속성은 대부분 name=\"va..",
+                            "google-adsense-platform-domain": "tistory.com",
+                            "og:url": "https://molra0000.tistory.com/entry/HTML-%EA%B8%B0%EC%B4%88-03HTML-%EA%B8%B0%EB%B3%B8%EC%9A%A9%EC%96%B4-%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0-%EC%9B%B9%ED%91%9C%EC%A4%80%EC%9D%B4%EB%9E%80",
+                            "format-detection": "telephone=no",
+                            "og:regdate": "20210929011818"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJETLz%2FbtrgiOweYJ9%2FecFgXFZPb1Ki0lf9kjFbCk%2Fimg.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "velog",
+                "htmlTitle": "velog",
+                "link": "https://velog.io/@ljinsk3/HTML-%EA%B8%B0%EC%B4%88-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC",
+                "displayLink": "velog.io",
+                "snippet": "개발자들을 위한 블로그 서비스. 어디서 글 쓸지 고민하지 말고 벨로그에서 시작하세요.",
+                "htmlSnippet": "개발자들을 위한 블로그 서비스. 어디서 글 쓸지 고민하지 말고 벨로그에서 시작하세요.",
+                "cacheId": "R1CuBAnLSKAJ",
+                "formattedUrl": "https://velog.io/@ljinsk3/HTML-기초-내용-정리",
+                "htmlFormattedUrl": "https://velog.io/@ljinsk3/<b>HTML</b>-<b>기초</b>-내용-정리",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_mNOxe8dIfsYpa1TTCt_ym8_iyHOm_Kyeue1Qg9GjHvWI3FmjbSiVqU4s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.velog.io/velog.png",
+                            "fb:app_id": "203040656938507",
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.velog.io/velog.png"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "[HTML 기초 강좌] 1. 기본 구조 및 BODY 태그 연습",
+                "htmlTitle": "[<b>HTML 기초</b> 강좌] 1. 기본 구조 및 BODY 태그 연습",
+                "link": "https://cofs.tistory.com/120",
+                "displayLink": "cofs.tistory.com",
+                "snippet": "Jan 18, 2016 ... 모든 강좌는 실무 기준으로 작성되며 이론 및 내부 구조 등이 궁금하신 분들은 직접 검색하시고 공부하시기 바랍니다. Html 을 사용할 수 있도록 ...",
+                "htmlSnippet": "Jan 18, 2016 <b>...</b> 모든 강좌는 실무 기준으로 작성되며 이론 및 내부 구조 등이 궁금하신 분들은 직접 검색하시고 공부하시기 바랍니다. <b>Html</b> 을 사용할 수 있도록&nbsp;...",
+                "cacheId": "tkRXzetK7g8J",
+                "formattedUrl": "https://cofs.tistory.com/120",
+                "htmlFormattedUrl": "https://cofs.tistory.com/120",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDsInsMjfH9-rO3l_qke7W4iuXYFJcDFsxvBE1g8ggM4kpccAsiJwvr3A",
+                            "width": "268",
+                            "height": "188"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2316CB47569C36DD08",
+                            "og.article.author": "CofS",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-01-18T10:42:46+09:00",
+                            "og:site_name": "CofS",
+                            "article:mobile_view_url": "https://cofs.tistory.com/m/120",
+                            "google-adsense-account": "ca-pub-7273408069261566",
+                            "article:mobile_service_home": "https://www.tistory.com/m",
+                            "article:pc_view_url": "https://cofs.tistory.com/120",
+                            "title": "[HTML 기초 강좌] 1. 기본 구조 및 BODY 태그 연습",
+                            "og:description": "모든 강좌는 실무 기준으로 작성되며 이론 및 내부 구조 등이 궁금하신 분들은 직접 검색하시고 공부하시기 바랍니다. Html 을 사용할 수 있도록 필요한 최소한을 설명합니다. 먼저 Html 이란 Hyper Text Markup Language 의 약자이며 홈페이지를 만드는데 있어서 기본적인 프로그램 언어라고 생각하시면 됩니다. 1. Html 의 구조 Html 은 로 끝나는 태그라는 것을 가지고 작성합니다. 하나의 시작 태그는 과 같은 구조이며 이 태그가 끝나는 시점을 알리는 부분은 로 끝나는 태그로 작성합니다. 그럼 하나의 태그 모양은 과같은 모양이 되고 이 태그 사이에 다른 태그 및 텍스트를 작성하여 홈페이지를 만든다고 생각하시면 되겠습니다. 위 그림과 같이 기본 Html 태그 구조는 html, head..",
+                            "twitter:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2316CB47569C36DD08",
+                            "article:talk_channel_view_url": "https://cofs.tistory.com/m/120",
+                            "twitter:site": "@TISTORY",
+                            "naver-site-verification": "d63847d6ac23a76b16a4ae72e0fabbd50d122615",
+                            "article:pc_url": "https://cofs.tistory.com/120",
+                            "article:modified_time": "2019-07-04T13:32:02+09:00",
+                            "article:txid": "1980944_120",
+                            "by": "CofS",
+                            "article:media_name": "CofS",
+                            "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                            "article:mobile_url": "https://cofs.tistory.com/m/120",
+                            "dg:plink": "https://cofs.tistory.com/120",
+                            "og:type": "article",
+                            "article:section": "'IT 인터넷'",
+                            "twitter:title": "[HTML 기초 강좌] 1. 기본 구조 및 BODY 태그 연습",
+                            "og:title": "[HTML 기초 강좌] 1. 기본 구조 및 BODY 태그 연습",
+                            "article:pc_service_home": "https://www.tistory.com",
+                            "referrer": "always",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0",
+                            "twitter:description": "모든 강좌는 실무 기준으로 작성되며 이론 및 내부 구조 등이 궁금하신 분들은 직접 검색하시고 공부하시기 바랍니다. Html 을 사용할 수 있도록 필요한 최소한을 설명합니다. 먼저 Html 이란 Hyper Text Markup Language 의 약자이며 홈페이지를 만드는데 있어서 기본적인 프로그램 언어라고 생각하시면 됩니다. 1. Html 의 구조 Html 은 로 끝나는 태그라는 것을 가지고 작성합니다. 하나의 시작 태그는 과 같은 구조이며 이 태그가 끝나는 시점을 알리는 부분은 로 끝나는 태그로 작성합니다. 그럼 하나의 태그 모양은 과같은 모양이 되고 이 태그 사이에 다른 태그 및 텍스트를 작성하여 홈페이지를 만든다고 생각하시면 되겠습니다. 위 그림과 같이 기본 Html 태그 구조는 html, head..",
+                            "google-adsense-platform-domain": "tistory.com",
+                            "og:url": "https://cofs.tistory.com/120",
+                            "format-detection": "telephone=no",
+                            "og:regdate": "20160118104246"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2316CB47569C36DD08"
+                        }
+                    ]
+                }
+            },
+            {
+                "kind": "customsearch#result",
+                "title": "[HTML 기초 01]웹 프로그래밍 기초 -코딩, html이란? :: 모행",
+                "htmlTitle": "[<b>HTML 기초</b> 01]웹 프로그래밍 기초 -코딩, html이란? :: 모행",
+                "link": "https://molra0000.tistory.com/entry/HTML-%EA%B8%B0%EC%B4%88%EA%B0%95%EC%A2%8C-01%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EC%BD%94%EB%94%A9-html%EC%9D%B4%EB%9E%80",
+                "displayLink": "molra0000.tistory.com",
+                "snippet": "Sep 28, 2021 ... [웹프로그래밍 기초강좌 - HTML 01] 코딩 그리고 HTML이란?​ HTML (Hypertext Markup Language) 코딩교육이 필수가 된지 벌써 몇년이나 지났네요 ...",
+                "htmlSnippet": "Sep 28, 2021 <b>...</b> [웹프로그래밍 <b>기초</b>강좌 - <b>HTML</b> 01] 코딩 그리고 <b>HTML</b>이란?​ <b>HTML</b> (Hypertext Markup Language) 코딩교육이 필수가 된지 벌써 몇년이나 지났네요&nbsp;...",
+                "cacheId": "H2mhB1M97ccJ",
+                "formattedUrl": "https://molra0000.tistory.com/.../HTML-기초강좌-01웹-프로그래밍-기초-...",
+                "htmlFormattedUrl": "https://molra0000.tistory.com/.../<b>HTML</b>-<b>기초</b>강좌-01웹-프로그래밍-<b>기초</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoAvcDZANiaG2cRqtLp7t---0nOQD7DV5XdxKj8RGLYubvzJaWxu_jGTZr",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxnxLv%2Fbtrga2WITl3%2F7MWgSDxcdlVoGkOcT0tRx1%2Fimg.jpg",
+                            "og.article.author": "모행",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2021-09-28T10:51:10+09:00",
+                            "og:site_name": "모행",
+                            "article:mobile_view_url": "https://molra0000.tistory.com/m/entry/HTML-%EA%B8%B0%EC%B4%88%EA%B0%95%EC%A2%8C-01%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EC%BD%94%EB%94%A9-html%EC%9D%B4%EB%9E%80",
+                            "article:mobile_service_home": "https://www.tistory.com/m",
+                            "article:pc_view_url": "https://molra0000.tistory.com/entry/HTML-%EA%B8%B0%EC%B4%88%EA%B0%95%EC%A2%8C-01%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EC%BD%94%EB%94%A9-html%EC%9D%B4%EB%9E%80",
+                            "title": "[HTML 기초 01]웹 프로그래밍 기초 -코딩, html이란?",
+                            "og:description": "[웹프로그래밍 기초강좌 - HTML 01] 코딩 그리고 HTML이란?​ HTML (Hypertext Markup Language) 코딩교육이 필수가 된지 벌써 몇년이나 지났네요 우리나라에서는 2018년부터 전국 초중고교에서 소프트웨어교육(코딩교육)이 의무화되었습니다. ​ ​ 그렇다면 코딩은 도대체 뭔가요? ​ ① 코딩이란? 프로그래밍과 같은 뜻으로 쓰이고 있습니다. 구체적으로, 코딩은 C언어,자바,파이썬,html,css등 프로그래밍 언어를 입력하는 과정이고,​ 프로그래밍은 프로그래밍언어를 통해 프로그램을 만드는 일을 뜻합니다. ​ 코딩이 중요한 이유는 인공지능, 사물인터넷, 지능형 로봇, 빅 데이터 분석 및 활용 등 4차 산업혁명시대를 대변하는 모든 것이 ICT(정보통신기술)을 바탕으로 한 소프트웨어를 ..",
+                            "twitter:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxnxLv%2Fbtrga2WITl3%2F7MWgSDxcdlVoGkOcT0tRx1%2Fimg.jpg",
+                            "article:talk_channel_view_url": "https://molra0000.tistory.com/m/entry/HTML-%EA%B8%B0%EC%B4%88%EA%B0%95%EC%A2%8C-01%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EC%BD%94%EB%94%A9-html%EC%9D%B4%EB%9E%80",
+                            "twitter:site": "@TISTORY",
+                            "article:pc_url": "https://molra0000.tistory.com/entry/HTML-%EA%B8%B0%EC%B4%88%EA%B0%95%EC%A2%8C-01%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EC%BD%94%EB%94%A9-html%EC%9D%B4%EB%9E%80",
+                            "article:modified_time": "2021-09-28T14:31:03+09:00",
+                            "article:txid": "4976028_2",
+                            "by": "모행",
+                            "article:media_name": "모행",
+                            "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                            "article:mobile_url": "https://molra0000.tistory.com/m/entry/HTML-%EA%B8%B0%EC%B4%88%EA%B0%95%EC%A2%8C-01%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EC%BD%94%EB%94%A9-html%EC%9D%B4%EB%9E%80",
+                            "dg:plink": "https://molra0000.tistory.com/2",
+                            "og:type": "article",
+                            "twitter:title": "[HTML 기초 01]웹 프로그래밍 기초 -코딩, html이란?",
+                            "og:title": "[HTML 기초 01]웹 프로그래밍 기초 -코딩, html이란?",
+                            "article:pc_service_home": "https://www.tistory.com",
+                            "referrer": "always",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0",
+                            "twitter:description": "[웹프로그래밍 기초강좌 - HTML 01] 코딩 그리고 HTML이란?​ HTML (Hypertext Markup Language) 코딩교육이 필수가 된지 벌써 몇년이나 지났네요 우리나라에서는 2018년부터 전국 초중고교에서 소프트웨어교육(코딩교육)이 의무화되었습니다. ​ ​ 그렇다면 코딩은 도대체 뭔가요? ​ ① 코딩이란? 프로그래밍과 같은 뜻으로 쓰이고 있습니다. 구체적으로, 코딩은 C언어,자바,파이썬,html,css등 프로그래밍 언어를 입력하는 과정이고,​ 프로그래밍은 프로그래밍언어를 통해 프로그램을 만드는 일을 뜻합니다. ​ 코딩이 중요한 이유는 인공지능, 사물인터넷, 지능형 로봇, 빅 데이터 분석 및 활용 등 4차 산업혁명시대를 대변하는 모든 것이 ICT(정보통신기술)을 바탕으로 한 소프트웨어를 ..",
+                            "google-adsense-platform-domain": "tistory.com",
+                            "og:url": "https://molra0000.tistory.com/entry/HTML-%EA%B8%B0%EC%B4%88%EA%B0%95%EC%A2%8C-01%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EC%BD%94%EB%94%A9-html%EC%9D%B4%EB%9E%80",
+                            "format-detection": "telephone=no",
+                            "og:regdate": "20210928105110"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxnxLv%2Fbtrga2WITl3%2F7MWgSDxcdlVoGkOcT0tRx1%2Fimg.jpg"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

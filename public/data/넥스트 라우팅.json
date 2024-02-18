@@ -1,0 +1,273 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Nextjs 라우팅",
+                "totalResults": "7240",
+                "searchTerms": "Nextjs 라우팅",
+                "count": 4,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "c3bfeca1422984473"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Nextjs 라우팅",
+                "totalResults": "7240",
+                "searchTerms": "Nextjs 라우팅",
+                "count": 4,
+                "startIndex": 5,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "c3bfeca1422984473"
+            }
+        ]
+    },
+    "context": {
+        "title": "chodingTest"
+    },
+    "searchInformation": {
+        "searchTime": 0.358083,
+        "formattedSearchTime": "0.36",
+        "totalResults": "7240",
+        "formattedTotalResults": "7,240"
+    },
+    "spelling": {
+        "correctedQuery": "Next Js 라우팅",
+        "htmlCorrectedQuery": "<em>Next Js</em> 라우팅"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "[NextJS] NextJs의 라우팅",
+            "htmlTitle": "[<b>NextJS</b>] <b>NextJs</b>의 <b>라우팅</b>",
+            "link": "https://jjongbin.tistory.com/50",
+            "displayLink": "jjongbin.tistory.com",
+            "snippet": "Mar 24, 2023 ... 넥스트(Next.js) 에서는 pages 폴더 안에 page 컴포넌트를 생성하면 자동으로 경로가 설정된다!! NextJS 프로젝트의 폴더구조를 살펴보면 다음과 같이 ...",
+            "htmlSnippet": "Mar 24, 2023 <b>...</b> 넥스트(Next.js) 에서는 pages 폴더 안에 page 컴포넌트를 생성하면 자동으로 경로가 설정된다!! <b>NextJS</b> 프로젝트의 폴더구조를 살펴보면 다음과 같이&nbsp;...",
+            "cacheId": "Up7cWC2kcCgJ",
+            "formattedUrl": "https://jjongbin.tistory.com/50",
+            "htmlFormattedUrl": "https://jjongbin.tistory.com/50",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs0cJoAdcCyNUC4QBKcTjnYOocK3Owq73vTQtiPeC6UXLUrUgkC8pYqkw",
+                        "width": "346",
+                        "height": "145"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://blog.kakaocdn.net/dn/U5DU6/btr5Q4iao3y/qXKTKqSpOZuNooivJwSqp0/img.png",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2023-03-24T21:29:15+09:00",
+                        "og:site_name": "개발종빈 🧑🏻‍💻",
+                        "article:mobile_view_url": "https://jjongbin.tistory.com/m/50",
+                        "article:mobile_service_home": "https://www.tistory.com/m",
+                        "article:pc_view_url": "https://jjongbin.tistory.com/50",
+                        "title": "[NextJS] NextJs의 라우팅 :: 개발종빈 🧑🏻‍💻",
+                        "og:description": "React만 사용하다가 최근부터 NextJS를 공부하고 있는데 너무 신기하다.. 기존의 React를 사용할 때는 react-router-dom을 사용한 라우팅을 전담하는 컴포넌트를 만들어줬었는데 NextJS는 그럴 필요가 없다! 넥스트(Next.js) 에서는 pages 폴더 안에 page 컴포넌트를 생성하면 자동으로 경로가 설정된다!! NextJS 프로젝트의 폴더구조를 살펴보면 다음과 같이 구성되어 있다. /.next /node_modules /pages /public /styles .getignore package-look.json package.json README.md 여기서 pages라는 폴더 아래에 파일 또는 폴더를 생성해서 라우팅을 할 수 있다. pages 폴더내에는 index.js라는 파일이..",
+                        "twitter:image": "https://blog.kakaocdn.net/dn/U5DU6/btr5Q4iao3y/qXKTKqSpOZuNooivJwSqp0/img.png",
+                        "article:talk_channel_view_url": "https://jjongbin.tistory.com/m/50",
+                        "twitter:site": "@TISTORY",
+                        "article:pc_url": "https://jjongbin.tistory.com/50",
+                        "article:modified_time": "2023-03-27T15:55:22+09:00",
+                        "article:txid": "4846386_50",
+                        "by": "ghkdu2",
+                        "article:media_name": "개발종빈 🧑🏻‍💻",
+                        "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                        "article:mobile_url": "https://jjongbin.tistory.com/m/50",
+                        "dg:plink": "https://jjongbin.tistory.com/50",
+                        "og:article:author": "ghkdu2",
+                        "og:type": "article",
+                        "twitter:title": "[NextJS] NextJs의 라우팅",
+                        "og:title": "[NextJS] NextJs의 라우팅",
+                        "article:pc_service_home": "https://www.tistory.com",
+                        "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0 ,minimum-scale=1.0, width=device-width, viewport-fit=cover",
+                        "twitter:description": "React만 사용하다가 최근부터 NextJS를 공부하고 있는데 너무 신기하다.. 기존의 React를 사용할 때는 react-router-dom을 사용한 라우팅을 전담하는 컴포넌트를 만들어줬었는데 NextJS는 그럴 필요가 없다! 넥스트(Next.js) 에서는 pages 폴더 안에 page 컴포넌트를 생성하면 자동으로 경로가 설정된다!! NextJS 프로젝트의 폴더구조를 살펴보면 다음과 같이 구성되어 있다. /.next /node_modules /pages /public /styles .getignore package-look.json package.json README.md 여기서 pages라는 폴더 아래에 파일 또는 폴더를 생성해서 라우팅을 할 수 있다. pages 폴더내에는 index.js라는 파일이..",
+                        "plink": "https://jjongbin.tistory.com/50",
+                        "google-adsense-platform-domain": "tistory.com",
+                        "og:url": "https://jjongbin.tistory.com/50",
+                        "format-detection": "telephone=no",
+                        "og:regdate": "20230324212915"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://blog.kakaocdn.net/dn/U5DU6/btr5Q4iao3y/qXKTKqSpOZuNooivJwSqp0/img.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "[NextJS] NextJS 시작하기 - 7. 다이나믹 라우팅 & 페이지 이동",
+            "htmlTitle": "[<b>NextJS</b>] <b>NextJS</b> 시작하기 - 7. 다이나믹 <b>라우팅</b> &amp; 페이지 이동",
+            "link": "https://gyyeom.tistory.com/64",
+            "displayLink": "gyyeom.tistory.com",
+            "snippet": "Jan 14, 2022 ... 티스토리. 스토리 서비스 목록. 관련 서비스. 스토리 홈 바로가기 · 브런치스토리 바로가기 · 카카오스토리 바로가기 · 동적 라우팅은 [변수].js 파일을 ...",
+            "htmlSnippet": "Jan 14, 2022 <b>...</b> 티스토리. 스토리 서비스 목록. 관련 서비스. 스토리 홈 바로가기 &middot; 브런치스토리 바로가기 &middot; 카카오스토리 바로가기 &middot; 동적 <b>라우팅</b>은 [변수].js 파일을&nbsp;...",
+            "cacheId": "SrDh9MmuZ20J",
+            "formattedUrl": "https://gyyeom.tistory.com/64",
+            "htmlFormattedUrl": "https://gyyeom.tistory.com/64",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlt65l86NqZpb_gDNvK-emjsZQl27uJ5A8BLe8TJC9u3cGRTE_rCpzBwI",
+                        "width": "304",
+                        "height": "166"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://blog.kakaocdn.net/dn/cXGTrB/btrqBefG7Bn/l9D0zmk7JkCXInXuY8kk9K/img.png",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2022-01-14T12:56:43+09:00",
+                        "og:site_name": "개발자제오",
+                        "article:mobile_view_url": "https://gyyeom.tistory.com/m/64",
+                        "google-adsense-account": "ca-pub-4343769094636612",
+                        "article:mobile_service_home": "https://www.tistory.com/m",
+                        "article:pc_view_url": "https://gyyeom.tistory.com/64",
+                        "title": "[NextJS] NextJS 시작하기 - 7. 다이나믹 라우팅 & 페이지 이동 :: 개발자제오",
+                        "og:description": "1. Routes NextJS의 개요를 다루면서, pages 폴더에 대해 살펴본 적이 있지만, 오늘은 더 자세한 기능을 볼 것이다. pages는 페이지 라우팅을 자동으로 설정해주는 폴더로, 정적 라우팅은 물론 동적 라우팅도 가능하다. 아래 표를 통해 사용법을 확인하자. pages 하위 폴더 구조 URL pages/index.js / pages/about.js /about pages/movies/index.js /movies pages/movies/all.js /movies/all pages/movies/[id].js /movies/12 동적 라우팅은 [변수].js 파일을 통해 설정할 수 있다. pages/movies/[id].js 에서는 id를 변수의 이름으로 설정한 것이고, useRouter를 통해 확..",
+                        "twitter:image": "https://blog.kakaocdn.net/dn/cXGTrB/btrqBefG7Bn/l9D0zmk7JkCXInXuY8kk9K/img.png",
+                        "article:talk_channel_view_url": "https://gyyeom.tistory.com/m/64",
+                        "twitter:site": "@TISTORY",
+                        "article:pc_url": "https://gyyeom.tistory.com/64",
+                        "article:modified_time": "2022-01-14T12:59:19+09:00",
+                        "article:txid": "4916004_64",
+                        "by": "zeo.y",
+                        "article:media_name": "개발자제오",
+                        "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                        "article:mobile_url": "https://gyyeom.tistory.com/m/64",
+                        "dg:plink": "https://gyyeom.tistory.com/64",
+                        "og:article:author": "zeo.y",
+                        "og:type": "article",
+                        "twitter:title": "[NextJS] NextJS 시작하기 - 7. 다이나믹 라우팅 & 페이지 이동",
+                        "og:title": "[NextJS] NextJS 시작하기 - 7. 다이나믹 라우팅 & 페이지 이동",
+                        "article:pc_service_home": "https://www.tistory.com",
+                        "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0 ,minimum-scale=1.0, width=device-width, viewport-fit=cover",
+                        "twitter:description": "1. Routes NextJS의 개요를 다루면서, pages 폴더에 대해 살펴본 적이 있지만, 오늘은 더 자세한 기능을 볼 것이다. pages는 페이지 라우팅을 자동으로 설정해주는 폴더로, 정적 라우팅은 물론 동적 라우팅도 가능하다. 아래 표를 통해 사용법을 확인하자. pages 하위 폴더 구조 URL pages/index.js / pages/about.js /about pages/movies/index.js /movies pages/movies/all.js /movies/all pages/movies/[id].js /movies/12 동적 라우팅은 [변수].js 파일을 통해 설정할 수 있다. pages/movies/[id].js 에서는 id를 변수의 이름으로 설정한 것이고, useRouter를 통해 확..",
+                        "plink": "https://gyyeom.tistory.com/64",
+                        "google-adsense-platform-domain": "tistory.com",
+                        "og:url": "https://gyyeom.tistory.com/64",
+                        "format-detection": "telephone=no",
+                        "og:regdate": "20220114125643"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://blog.kakaocdn.net/dn/cXGTrB/btrqBefG7Bn/l9D0zmk7JkCXInXuY8kk9K/img.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Next.js 에서 라우팅 사용하기",
+            "htmlTitle": "Next.js 에서 <b>라우팅</b> 사용하기",
+            "link": "https://merrily-code.tistory.com/52",
+            "displayLink": "merrily-code.tistory.com",
+            "snippet": "Feb 22, 2021 ... 리액트에서는 react-router-dom 라이브러리를 통해 페이지간 라우팅을 구현할 수 있었습니다. 그러나 넥스트(Next.js) 에서는 pages 폴더 안에 ...",
+            "htmlSnippet": "Feb 22, 2021 <b>...</b> 리액트에서는 react-router-dom 라이브러리를 통해 페이지간 <b>라우팅</b>을 구현할 수 있었습니다. 그러나 넥스트(Next.js) 에서는 pages 폴더 안에&nbsp;...",
+            "cacheId": "gM6kxVvTSLUJ",
+            "formattedUrl": "https://merrily-code.tistory.com/52",
+            "htmlFormattedUrl": "https://merrily-code.tistory.com/52",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FoilHg%2FbtqX31U8MF3%2Ft7TM3y5XanM4wj2c9Xkwb1%2Fimg.png",
+                        "og.article.author": "Chamming2",
+                        "twitter:card": "summary_large_image",
+                        "article:published_time": "2021-02-22T02:37:57+09:00",
+                        "og:site_name": "즐겁게, 코드",
+                        "article:mobile_view_url": "https://merrily-code.tistory.com/m/52",
+                        "google-adsense-account": "ca-pub-9624628135429452",
+                        "article:mobile_service_home": "https://www.tistory.com/m",
+                        "article:pc_view_url": "https://merrily-code.tistory.com/52",
+                        "title": "Next.js 에서 라우팅 사용하기",
+                        "og:description": "리액트에서는 react-router-dom 라이브러리를 통해 페이지간 라우팅을 구현할 수 있었습니다. 그러나 넥스트(Next.js) 에서는 pages 폴더 안에 컴포넌트를 생성하면 자동으로 경로가 설정되게 됩니다. /.next /pages ㄴ-- index.jsx ㄴ-- tomato.jsx /public /styles 이렇게 pages 폴더 안에 index 와 tomato 라는 컴포넌트가 있으면 별도의 라우팅 없이 /tomato 라는 경로를 사용할 수 있게 됩니다. (* 경로명은 export되는 컴포넌트 이름이 아닌 파일명을 기준으로 합니다.) 정적 라우팅 정적 라우팅은 사전에 지정된 주소로 이동하는 방법입니다. react-router-dom 처럼 넥스트에서도 Link 컴포넌트를 사용해 주소를 이동할 수..",
+                        "twitter:image": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FoilHg%2FbtqX31U8MF3%2Ft7TM3y5XanM4wj2c9Xkwb1%2Fimg.png",
+                        "article:talk_channel_view_url": "https://merrily-code.tistory.com/m/52",
+                        "twitter:site": "@TISTORY",
+                        "naver-site-verification": "6cb98e3342197800f03bffe845f6c53ffb8d604c",
+                        "article:pc_url": "https://merrily-code.tistory.com/52",
+                        "article:modified_time": "2021-02-22T11:49:43+09:00",
+                        "article:txid": "4365896_52",
+                        "by": "Chamming2",
+                        "article:media_name": "즐겁게, 코드",
+                        "google-adsense-platform-account": "ca-host-pub-9691043933427338",
+                        "article:mobile_url": "https://merrily-code.tistory.com/m/52",
+                        "dg:plink": "https://merrily-code.tistory.com/52",
+                        "og:type": "article",
+                        "article:section": "'IT 인터넷'",
+                        "twitter:title": "Next.js 에서 라우팅 사용하기",
+                        "og:title": "Next.js 에서 라우팅 사용하기",
+                        "article:pc_service_home": "https://www.tistory.com",
+                        "referrer": "always",
+                        "viewport": "user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width",
+                        "twitter:description": "리액트에서는 react-router-dom 라이브러리를 통해 페이지간 라우팅을 구현할 수 있었습니다. 그러나 넥스트(Next.js) 에서는 pages 폴더 안에 컴포넌트를 생성하면 자동으로 경로가 설정되게 됩니다. /.next /pages ㄴ-- index.jsx ㄴ-- tomato.jsx /public /styles 이렇게 pages 폴더 안에 index 와 tomato 라는 컴포넌트가 있으면 별도의 라우팅 없이 /tomato 라는 경로를 사용할 수 있게 됩니다. (* 경로명은 export되는 컴포넌트 이름이 아닌 파일명을 기준으로 합니다.) 정적 라우팅 정적 라우팅은 사전에 지정된 주소로 이동하는 방법입니다. react-router-dom 처럼 넥스트에서도 Link 컴포넌트를 사용해 주소를 이동할 수..",
+                        "google-adsense-platform-domain": "tistory.com",
+                        "og:url": "https://merrily-code.tistory.com/52",
+                        "format-detection": "telephone=no",
+                        "og:regdate": "20210222023757"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FoilHg%2FbtqX31U8MF3%2Ft7TM3y5XanM4wj2c9Xkwb1%2Fimg.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "NextJS: Routing intro - 라우팅",
+            "htmlTitle": "<b>NextJS</b>: <b>Routing</b> intro - <b>라우팅</b>",
+            "link": "https://velog.io/@hwisaac/NextJS-Routing-intro",
+            "displayLink": "velog.io",
+            "snippet": "Mar 12, 2023 ... Next.js는 페이지(Page) 개념에 기반한 파일 시스템 기반의 라우터를 내장하고 있습니다.pages 디렉토리에 파일이 추가되면, 자동으로 해당 파일이 ...",
+            "htmlSnippet": "Mar 12, 2023 <b>...</b> Next.js는 페이지(Page) 개념에 기반한 파일 시스템 기반의 <b>라우터</b>를 내장하고 있습니다.pages 디렉토리에 파일이 추가되면, 자동으로 해당 파일이&nbsp;...",
+            "cacheId": "Bs1GpMmU42QJ",
+            "formattedUrl": "https://velog.io/@hwisaac/NextJS-Routing-intro",
+            "htmlFormattedUrl": "https://velog.io/@hwisaac/<b>NextJS</b>-Routing-intro",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_mNOxe8dIfsYpa1TTCt_ym8_iyHOm_Kyeue1Qg9GjHvWI3FmjbSiVqU4s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://images.velog.io/velog.png",
+                        "fb:app_id": "203040656938507",
+                        "og:type": "article",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "NextJS: Routing intro",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Next.js는 페이지(Page) 개념에 기반한 파일 시스템 기반의 라우터를 내장하고 있습니다.pages 디렉토리에 파일이 추가되면, 자동으로 해당 파일이 라우팅 경로로 사용됩니다.pages 디렉토리 내의 파일은 대부분의 일반적인 라우팅 패턴을 정의하는 데 사용될 수",
+                        "og:title": "NextJS: Routing intro",
+                        "og:url": "https://velog.io/@hwisaac/NextJS-Routing-intro",
+                        "og:description": "Next.js는 페이지(Page) 개념에 기반한 파일 시스템 기반의 라우터를 내장하고 있습니다.pages 디렉토리에 파일이 추가되면, 자동으로 해당 파일이 라우팅 경로로 사용됩니다.pages 디렉토리 내의 파일은 대부분의 일반적인 라우팅 패턴을 정의하는 데 사용될 수"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://images.velog.io/velog.png"
+                    }
+                ]
+            }
+        }
+    ]
+}
